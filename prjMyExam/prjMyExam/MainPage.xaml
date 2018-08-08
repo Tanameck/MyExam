@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:prjMyExam"
              x:Class="prjMyExam.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Label Text="Welcome to MyExam!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
