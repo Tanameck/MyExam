@@ -1,19 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
-  <Jars>
-    <Jar>C:\Users\Sebas\Documents\Git\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\lp\0\jl\formsviewgroup.jar</Jar>
-  </Jars>
+  <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\Sebas\Documents\Git\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\lp\11\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Sebas\Documents\Git\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\lp\12\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj\Debug\lp\11\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\lp\12\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\Sebas\Documents\Git\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\lp\11.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Sebas\Documents\Git\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\lp\12.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
