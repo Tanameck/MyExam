@@ -4,8 +4,16 @@
              xmlns:local="clr-namespace:prjMyExam"
              x:Class="prjMyExam.MainPage">
 
-	<Label Text="Bienvenido a MyExam!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Username" Font="Arial" FontSize="Medium"></Label>
+            <Entry x:Name="txtUsername" FontSize="Small" Placeholder="Enter your username"></Entry>
+            
+            <Label Text="Password" Font="Arial" FontSize="Medium"></Label>
+            <Entry x:Name="txtPassword" FontSize="Small" Placeholder="Enter your password"></Entry>
+            
+            <Button Text="Login" x:Name="btnLogin"></Button>
+        </StackLayout>
+    </ContentPage.Content>
 
 </ContentPage>

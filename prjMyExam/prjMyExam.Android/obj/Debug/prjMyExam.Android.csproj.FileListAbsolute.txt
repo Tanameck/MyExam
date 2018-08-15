@@ -1,3 +1,10 @@
+C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Droid.App.xaml.g.cs
+C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Droid.frmDashboard.xaml.g.cs
+C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Droid.frmNewUser.xaml.g.cs
+C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Droid.frmAdminUser.xaml.g.cs
+C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Droid.frmAdminQuestion.xaml.g.cs
+C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Droid.frmAdminExam.xaml.g.cs
+C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Android.csprojResolveAssemblyReference.cache
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\bin\Debug\prjMyExam.Android.dll
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\bin\Debug\prjMyExam.Android.pdb
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\bin\Debug\prjMyExam.Android.apk
@@ -25,8 +32,6 @@ C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Andr
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Droid.MainPage.xaml.g.cs
-C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Droid.App.xaml.g.cs
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Android.dll
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Android.pdb
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\android\bin\prjMyExam.Android.apk
@@ -42,3 +47,4 @@ C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Andr
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Tanameck\Documents\VisualStudioProjects\MyExam\prjMyExam\prjMyExam.Android\obj\Debug\prjMyExam.Droid.frmLogin.xaml.g.cs

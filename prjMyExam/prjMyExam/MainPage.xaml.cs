@@ -11,7 +11,7 @@ namespace prjMyExam
 	{
 		public MainPage()
 		{
-			InitializeComponent();
+			//InitializeComponent();
 		}
 	}
 }

@@ -11,13 +11,13 @@
 namespace prjMyExam {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Tanameck\\Documents\\VisualStudioProjects\\MyExam\\prjMyExam\\prjMyExam\\MainP" +
-        "age.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Tanameck\\Documents\\VisualStudioProjects\\MyExam\\prjMyExam\\prjMyExam\\Login" +
+        ".xaml")]
+    public partial class frmLogin : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(frmLogin));
         }
     }
 }

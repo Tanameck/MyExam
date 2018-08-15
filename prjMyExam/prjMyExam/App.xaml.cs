@@ -13,7 +13,7 @@ namespace prjMyExam
 		{
 			InitializeComponent();
 
-			MainPage = new prjMyExam.MainPage();
+			MainPage = new prjMyExam.frmLogin();
 		}
 
 		protected override void OnStart ()
