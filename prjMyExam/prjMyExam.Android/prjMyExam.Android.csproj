@@ -16,8 +16,7 @@
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
-    <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
     <AndroidStoreUncompressedFileExtensions />
     <MandroidI18n />
     <JavaMaximumHeapSize />
@@ -100,6 +99,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidAsset Include="Assets\OpenSans-Bold.ttf" />
+    <AndroidAsset Include="Assets\OpenSans-Regular.ttf" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />

@@ -6,7 +6,7 @@
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <application android:label="prjMyExam.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="prjMyExam" android:theme="@style/MainTheme" android:name="md54a981b091c0d1149497f6117580d63d5.MainActivity">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="prjMyExam" android:theme="@style/MainTheme" android:name="md5ea135e1b421b198c63718a151775a7e3.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
