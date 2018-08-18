@@ -3,14 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="prjMyExam.frmLogin">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Username" Font="Arial" FontSize="Medium"></Label>
-            <Entry x:Name="txtUsername" FontSize="Small" Placeholder="Enter your username"></Entry>
+        <AbsoluteLayout>
+            <Label Text="Usuario" FontSize="30" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.2,.3,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"> </Label>
+            <Entry x:Name="txtUsername" Placeholder="Ingrese su usuario" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.22,.5,.1" 
+            AbsoluteLayout.LayoutFlags="All"></Entry>
 
-            <Label Text="Password" Font="Arial" FontSize="Medium"></Label>
-            <Entry x:Name="txtPassword" FontSize="Small" Placeholder="Enter your password"></Entry>
+            <Label Text="Contraseña" FontSize="30" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.4,.3,.1" AbsoluteLayout.LayoutFlags="All"
+            LineBreakMode="WordWrap">  </Label>
+            <Entry x:Name="txtPassword" IsPassword="true" Placeholder="Ingrese su contraseña" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.42,.5,.1" 
+            AbsoluteLayout.LayoutFlags="All"></Entry>
 
-            <Button Text="Login" x:Name="btnLogin"></Button>
-        </StackLayout>
+            <Button Text="Iniciar Sesión" x:Name="btnLogin" FontSize="20" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.6,.5,.1" AbsoluteLayout.LayoutFlags="All"
+            ></Button>
+          
+          </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>
