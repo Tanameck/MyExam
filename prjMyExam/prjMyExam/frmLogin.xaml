@@ -13,7 +13,6 @@
             LineBreakMode="WordWrap">  </Label>
             <Entry x:Name="txtPassword" IsPassword="true" Placeholder="Ingrese su contraseña" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.42,.5,.1" 
             AbsoluteLayout.LayoutFlags="All"></Entry>
-
             <Button Text="Iniciar Sesión" x:Name="btnLogin" FontSize="20" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.6,.5,.1" AbsoluteLayout.LayoutFlags="All"
             ></Button>
           

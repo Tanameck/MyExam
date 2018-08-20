@@ -3,8 +3,45 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="prjMyExam.frmNewUser">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin Forms!" />
-        </StackLayout>
+        <AbsoluteLayout>
+            <Label Text="Nombre" FontSize="22" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".05,.1,.5,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Entry x:Name="txtName" Placeholder="Ingrese su nombre" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" AbsoluteLayout.LayoutBounds=".05,.105,.5,.1" 
+            AbsoluteLayout.LayoutFlags="All"></Entry>
+
+            <Label Text="Primer Apellido" FontSize="22" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".05,.3,.5,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Entry x:Name="txtFirstlastname" Placeholder="Ingrese su apellido" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" AbsoluteLayout.LayoutBounds=".05,.305,.5,.1" 
+            AbsoluteLayout.LayoutFlags="All"></Entry>
+
+            <Label Text="Segundo Apellido" FontSize="22" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".05,.5,.5,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Entry x:Name="txtSecondlastname" Placeholder="Ingrese su apellido" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" AbsoluteLayout.LayoutBounds=".05,.502,.5,.1" 
+            AbsoluteLayout.LayoutFlags="All"></Entry>
+
+            <Label Text="Cédula" FontSize="22" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".95,.1,.5,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Entry x:Name="txtID" Placeholder="Ingrese su cédula" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" AbsoluteLayout.LayoutBounds=".95,.102,.5,.1" 
+            AbsoluteLayout.LayoutFlags="All"></Entry>
+
+            <Label Text="Email" FontSize="22" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".95,.3,.5,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Entry x:Name="txtEmail" Placeholder="Ingrese su Email" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" AbsoluteLayout.LayoutBounds=".95,.302,.5,.1" 
+            AbsoluteLayout.LayoutFlags="All"></Entry>
+
+            <Label Text="Usuario" FontSize="22" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".95,.5,.5,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Entry x:Name="txtUsername" Placeholder="Ingrese su usuario" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" AbsoluteLayout.LayoutBounds=".95,.502,.5,.1" 
+            AbsoluteLayout.LayoutFlags="All"></Entry>
+
+            <Label Text="Contraseña" FontSize="22" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.7,.5,.1" AbsoluteLayout.LayoutFlags="All"
+            LineBreakMode="WordWrap"></Label>
+            <Entry x:Name="txtPassword" IsPassword="true" Placeholder="Ingrese su contraseña" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.702,.5,.1" 
+            AbsoluteLayout.LayoutFlags="All"></Entry>
+
+            <Button Text="Enviar" x:Name="btnRegister" FontSize="20" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.9,.5,.1" AbsoluteLayout.LayoutFlags="All"
+            ></Button>
+
+        </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

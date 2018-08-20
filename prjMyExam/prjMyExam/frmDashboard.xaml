@@ -3,8 +3,27 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="prjMyExam.frmDashboard">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin Fms!" />
-        </StackLayout>
+        <AbsoluteLayout>
+            <Picker x:Name="selectedExam" Title="-> Elije un examen" SelectedIndex="{Binding Industry}" HorizontalOptions="FillAndExpand" VerticalOptions="Center" 
+            AbsoluteLayout.LayoutBounds=".5,.05,.5,.2" AbsoluteLayout.LayoutFlags="All">
+                <Picker.Items>
+                    <x:String>Ejemplo 1</x:String>
+                    <x:String>Ejemplo 2</x:String>
+                </Picker.Items>
+            </Picker>
+            <Label x:Name="examName" Text="Nombre del examen" FontSize="22" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.3,.5,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Label Text="Requerimiento:" FontSize="22"  AbsoluteLayout.LayoutBounds=".25,.4,.5,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Label x:Name="requirement" Text="Ejemplo" FontSize="22" AbsoluteLayout.LayoutBounds=".9,.4,.2,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Label Text="Curso:" FontSize="22" AbsoluteLayout.LayoutBounds=".25,.5,.5,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Label x:Name="course" Text="Ejemplo" FontSize="22"  AbsoluteLayout.LayoutBounds=".9,.5,.2,.1" AbsoluteLayout.LayoutFlags="All" 
+            LineBreakMode="WordWrap"></Label>
+            <Button Text="Ingresar" x:Name="btnExam" FontSize="20" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds=".5,.9,.5,.1" AbsoluteLayout.LayoutFlags="All"
+            ></Button>
+
+        </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>
